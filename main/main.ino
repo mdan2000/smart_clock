@@ -10,7 +10,6 @@
 // Создаем переменную strip для управления нашей лентой.
 CRGB strip[LED_COUNT];
 
-
 #define ROWS
 #define COLS
 CRGB matrix[ROW][COLS];
